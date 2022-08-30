@@ -1,6 +1,6 @@
 # The emojART flutter app
 
-This app was recently published on the [App store](https://apps.apple.com/us/app/emojart/id1632243774) and the [Play store](https://play.google.com/store/apps/details?id=com.navonapps.emojart).
+This app was recently published on the [App store](https://apps.apple.com/us/app/emojart/id1632243774) and the [Play store](https://play.google.com/store/apps/details?id=com.navonapps.emojart). You are welcome to download them and take a look. I hope you will like it!
 
 So basically, this app helps you create pixel art with emojis, a.k.a. emoji art. With emojART, you can create emoji art by drawing on a mobile device with emojis as brushes. You can copy and paste it on social media such as Facebook or Whatsapp.
 
